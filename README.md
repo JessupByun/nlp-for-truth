@@ -1,6 +1,6 @@
-# **Fake News Detection Model** by Jessup Byun
+# **NLP for Truth**
 
-A high-accuracy binary classification model capable of categorizing news articles as either **real** or **fake** using machine learning techniques. The project has been implemented twice:
+Here, I built a high-accuracy binary classification model capable of categorizing news articles as either **real** or **fake** using machine learning techniques. The project has been implemented twice:
 1. Using **Scikit-learn** with **Logistic Regression** for simplicity and interpretability.
 2. Using **PyTorch** to build a custom **neural network** for greater flexibility and experimentation with deep learning.
 
